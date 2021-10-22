@@ -18,3 +18,6 @@ Loss:
 - Huber
 - mse
 - custom for multiple outputs
+
+Credits to chriskok for the original data and basic framework for this code.
+https://github.com/chriskok/GEPrediction-OSRS
